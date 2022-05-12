@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Yousef Hamarsheh
-- 🔭 I have 1+ years of experince working as a Flutter developer
+- 🔭 I have 2+ years of experince working as a Java developer
 - 💻 I worked as a CTO and co-founder at a local startup
 - 💁‍♂️ I also worked as a teacher asistant at Code for Palestine
 - 🌱 I am currently focusing on learning Swift and React
