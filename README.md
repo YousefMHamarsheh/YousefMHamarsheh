@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Yousef Hamarsheh&count_private=true&theme=dracula&hide_border=true" alt = "Yousef's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Yousef Hamarsheh&count_private=true&theme=dracula&hide_border=true" alt = "Yousef's Rating" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=YousefMHamarsheh&count_private=true&theme=dracula&hide_border=true" alt = "Yousef's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=YousefMHamarsheh&count_private=true&theme=dracula&hide_border=true" alt = "Yousef's Rating" width = 400 >
 
 </p>
 
